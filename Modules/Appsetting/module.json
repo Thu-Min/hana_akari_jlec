@@ -1,0 +1,11 @@
+{
+    "name": "Appsetting",
+    "alias": "appsetting",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Appsetting\\app\\Providers\\AppsettingServiceProvider"
+    ],
+    "files": []
+}
